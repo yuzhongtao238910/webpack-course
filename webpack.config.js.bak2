@@ -47,11 +47,9 @@ module.exports = (env) => {
 			// 3- 代码分割 splitchunk
 			// main: './src1/index.js',
 			// mpa 多应用
-			// page1: './src2/page1.js',
-			// page2: './src2/page2.js',
-			// page3: './src2/page3.js',
-			entry1: './src3/entry1.js',
-			entry2: './src3/entry2.js',
+			page1: './src2/page1.js',
+			page2: './src2/page2.js',
+			page3: './src2/page3.js',
 		},
 		optimization: {
 			splitChunks: {
@@ -60,27 +58,22 @@ module.exports = (env) => {
 				maxSize: 0, // 分割出去的代码块的最大体积 0表示不限制
 				minRemainingSize: 0, // 分割出去剩下的体积，0表示不限制 webpack5新增的
 				// minChunks: 1, // 如果此模块被多个入口引用几次会被分割
-				// maxAsyncRequests: 30, // 异步请求最大分割出去几个代码块
-				// maxInitialRequests: 30, // 同步的时候最大分割出去几个代码块
-				// automaticNameDelimiter: '~', // 名称的分隔符号
-				// enforceSizeThreshold: 50000, // 强制的阈值
+				maxAsyncRequests: 30, // 异步请求最大分割出去几个代码块
+				maxInitialRequests: 30, // 同步的时候最大分割出去几个代码块
+				automaticNameDelimiter: '~', // 名称的分隔符号
+				enforceSizeThreshold: 50000, // 强制的阈值
 				cacheGroups: {
-					default: false, // 禁用默认缓存组
-					commons: {
-						minChunks: 1,
+					// 缓存组 配置如何对模块进行分组
+					defaultVendors: {
+						test: /[\\/]node_modules[\\/]/,
+						priority: -10, // 如果一个模块同属于多个缓存组，那么看谁的优先级别高
+						reuseExistingChunk: true, // 是否可以复用现有的代码块
+					},
+					default: {
+						minChunks: 2, // 被几个入口引用，此模块被几个入口引用过
+						priority: -20,
 						reuseExistingChunk: true,
 					},
-					// 缓存组 配置如何对模块进行分组
-					// defaultVendors: {
-					// 	test: /[\\/]node_modules[\\/]/,
-					// 	priority: -10, // 如果一个模块同属于多个缓存组，那么看谁的优先级别高
-					// 	reuseExistingChunk: true, // 是否可以复用现有的代码块
-					// },
-					// default: {
-					// 	minChunks: 2, // 被几个入口引用，此模块被几个入口引用过
-					// 	priority: -20,
-					// 	reuseExistingChunk: true,
-					// },
 				},
 			},
 			// minimize: true, // 开启最小化
@@ -90,7 +83,6 @@ module.exports = (env) => {
 		output: {
 			path: path.resolve(__dirname, 'dist'),
 			filename: '[name].js',
-			clean: true, // 在生成文件之前清空 output 目录
 		},
 		resolve: {
 			extensions: ['.js', '.jsx', 'json'], // 配置扩展名字
