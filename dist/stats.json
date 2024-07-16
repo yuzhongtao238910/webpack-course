@@ -1,0 +1,5058 @@
+{
+  "hash": "06053e77754fb5fc0c55",
+  "version": "5.73.0",
+  "time": 350,
+  "builtAt": 1721114809968,
+  "publicPath": "auto",
+  "outputPath": "C:\\Users\\yuzho\\Desktop\\webpack_good\\dist",
+  "assetsByChunkName": {
+    "page1~src2_page1_js_d5368c5f": [
+      "page1~src2_page1_js_d5368c5f.js"
+    ],
+    "page2": [
+      "page2.js"
+    ],
+    "page3~src2_page3_js_1cbada73": [
+      "page3~src2_page3_js_1cbada73.js"
+    ],
+    "page1~src2_module2_js_9f83ba11": [
+      "page1~src2_module2_js_9f83ba11.js"
+    ],
+    "page3~src2_module3_js_df0c531f": [
+      "page3~src2_module3_js_df0c531f.js"
+    ]
+  },
+  "assets": [
+    {
+      "type": "asset",
+      "name": "defaultVendors-node_modules_lodash_lodash_js.js",
+      "size": 563045,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "size": 563045
+      },
+      "chunkNames": [],
+      "chunkIdHints": [
+        "defaultVendors"
+      ],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        "defaultVendors-node_modules_lodash_lodash_js"
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "defaultVendors-node_modules_jquery_dist_jquery_js.js",
+      "size": 323308,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "size": 323308
+      },
+      "chunkNames": [],
+      "chunkIdHints": [
+        "defaultVendors"
+      ],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        "defaultVendors-node_modules_jquery_dist_jquery_js"
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "page1~src2_page1_js_d5368c5f.js",
+      "size": 16019,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "size": 16019
+      },
+      "chunkNames": [
+        "page1~src2_page1_js_d5368c5f"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        "page1~src2_page1_js_d5368c5f"
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "page3~src2_page3_js_1cbada73.js",
+      "size": 8884,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "size": 8884
+      },
+      "chunkNames": [
+        "page3~src2_page3_js_1cbada73"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        "page3~src2_page3_js_1cbada73"
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "page2.js",
+      "size": 8499,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "size": 8499
+      },
+      "chunkNames": [
+        "page2"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        "page2"
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "src2_asyncModule1_js.js",
+      "size": 1388,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "size": 1388
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        "src2_asyncModule1_js"
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "page1~src2_module2_js_9f83ba11.js",
+      "size": 930,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "size": 930
+      },
+      "chunkNames": [
+        "page1~src2_module2_js_9f83ba11"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        "page1~src2_module2_js_9f83ba11"
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "page3~src2_module3_js_df0c531f.js",
+      "size": 930,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "size": 930
+      },
+      "chunkNames": [
+        "page3~src2_module3_js_df0c531f"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        "page3~src2_module3_js_df0c531f"
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "default-src2_module1_js.js",
+      "size": 923,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "size": 923
+      },
+      "chunkNames": [],
+      "chunkIdHints": [
+        "default"
+      ],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        "default-src2_module1_js"
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "page1.html",
+      "size": 463,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "size": 463
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "page3.html",
+      "size": 463,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "size": 463
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "page2.html",
+      "size": 377,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "size": 377
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    }
+  ],
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: default)",
+      "size": 27,
+      "sizes": {
+        "javascript": 27
+      },
+      "names": [],
+      "idHints": [
+        "default"
+      ],
+      "runtime": [
+        "page1",
+        "page2",
+        "page3"
+      ],
+      "files": [
+        "default-src2_module1_js.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "0f7c5dd8e8e5498f7aa9",
+      "childrenByOrder": {},
+      "id": "default-src2_module1_js",
+      "siblings": [
+        "defaultVendors-node_modules_jquery_dist_jquery_js",
+        "page1~src2_module2_js_9f83ba11",
+        "page1~src2_page1_js_d5368c5f",
+        "page2",
+        "page3~src2_module3_js_df0c531f",
+        "page3~src2_page3_js_1cbada73"
+      ],
+      "parents": [],
+      "children": [
+        "defaultVendors-node_modules_lodash_lodash_js",
+        "src2_asyncModule1_js"
+      ],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 27,
+          "sizes": {
+            "javascript": 27
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\module1.js",
+          "name": "./src2/module1.js",
+          "nameForCondition": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\module1.js",
+          "index": 1,
+          "preOrderIndex": 1,
+          "index2": 0,
+          "postOrderIndex": 0,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "issuerName": "./src2/page1.js",
+          "issuerPath": [
+            {
+              "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+              "name": "./src2/page1.js",
+              "id": "./src2/page1.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "./src2/module1.js",
+          "issuerId": "./src2/page1.js",
+          "chunks": [
+            "default-src2_module1_js"
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+              "module": "./src2/page1.js",
+              "moduleName": "./src2/page1.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+              "resolvedModule": "./src2/page1.js",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./module1",
+              "loc": "1:0-31",
+              "moduleId": "./src2/page1.js",
+              "resolvedModuleId": "./src2/page1.js"
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+              "module": "./src2/page1.js",
+              "moduleName": "./src2/page1.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+              "resolvedModule": "./src2/page1.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./module1",
+              "loc": "5:12-19",
+              "moduleId": "./src2/page1.js",
+              "resolvedModuleId": "./src2/page1.js"
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page2.js",
+              "module": "./src2/page2.js",
+              "moduleName": "./src2/page2.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page2.js",
+              "resolvedModule": "./src2/page2.js",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./module1",
+              "loc": "1:0-31",
+              "moduleId": "./src2/page2.js",
+              "resolvedModuleId": "./src2/page2.js"
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page2.js",
+              "module": "./src2/page2.js",
+              "moduleName": "./src2/page2.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page2.js",
+              "resolvedModule": "./src2/page2.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./module1",
+              "loc": "4:12-19",
+              "moduleId": "./src2/page2.js",
+              "resolvedModuleId": "./src2/page2.js"
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+              "module": "./src2/page3.js",
+              "moduleName": "./src2/page3.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+              "resolvedModule": "./src2/page3.js",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./module1",
+              "loc": "1:0-31",
+              "moduleId": "./src2/page3.js",
+              "resolvedModuleId": "./src2/page3.js"
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+              "module": "./src2/page3.js",
+              "moduleName": "./src2/page3.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+              "resolvedModule": "./src2/page3.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./module1",
+              "loc": "5:15-22",
+              "moduleId": "./src2/page3.js",
+              "resolvedModuleId": "./src2/page3.js"
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [],
+          "depth": 1
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "page1",
+          "request": "./src2/page1.js"
+        },
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "page2",
+          "request": "./src2/page2.js"
+        },
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "page3",
+          "request": "./src2/page3.js"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 285314,
+      "sizes": {
+        "javascript": 285314
+      },
+      "names": [],
+      "idHints": [
+        "defaultVendors"
+      ],
+      "runtime": [
+        "page1",
+        "page2",
+        "page3"
+      ],
+      "files": [
+        "defaultVendors-node_modules_jquery_dist_jquery_js.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "937f4d316456dd6d2003",
+      "childrenByOrder": {},
+      "id": "defaultVendors-node_modules_jquery_dist_jquery_js",
+      "siblings": [
+        "default-src2_module1_js",
+        "page1~src2_module2_js_9f83ba11",
+        "page1~src2_page1_js_d5368c5f",
+        "page2",
+        "page3~src2_module3_js_df0c531f",
+        "page3~src2_page3_js_1cbada73"
+      ],
+      "parents": [],
+      "children": [
+        "defaultVendors-node_modules_lodash_lodash_js",
+        "src2_asyncModule1_js"
+      ],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 285314,
+          "sizes": {
+            "javascript": 285314
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\jquery\\dist\\jquery.js",
+          "name": "./node_modules/jquery/dist/jquery.js",
+          "nameForCondition": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\jquery\\dist\\jquery.js",
+          "index": 3,
+          "preOrderIndex": 3,
+          "index2": 2,
+          "postOrderIndex": 2,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "issuerName": "./src2/page1.js",
+          "issuerPath": [
+            {
+              "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+              "name": "./src2/page1.js",
+              "id": "./src2/page1.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "./node_modules/jquery/dist/jquery.js",
+          "issuerId": "./src2/page1.js",
+          "chunks": [
+            "defaultVendors-node_modules_jquery_dist_jquery_js"
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\jquery\\dist\\jquery.js",
+              "module": "./node_modules/jquery/dist/jquery.js",
+              "moduleName": "./node_modules/jquery/dist/jquery.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\jquery\\dist\\jquery.js",
+              "resolvedModule": "./node_modules/jquery/dist/jquery.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "15:43-57",
+              "moduleId": "./node_modules/jquery/dist/jquery.js",
+              "resolvedModuleId": "./node_modules/jquery/dist/jquery.js"
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\jquery\\dist\\jquery.js",
+              "module": "./node_modules/jquery/dist/jquery.js",
+              "moduleName": "./node_modules/jquery/dist/jquery.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\jquery\\dist\\jquery.js",
+              "resolvedModule": "./node_modules/jquery/dist/jquery.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "24:2-16",
+              "moduleId": "./node_modules/jquery/dist/jquery.js",
+              "resolvedModuleId": "./node_modules/jquery/dist/jquery.js"
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\jquery\\dist\\jquery.js",
+              "module": "./node_modules/jquery/dist/jquery.js",
+              "moduleName": "./node_modules/jquery/dist/jquery.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\jquery\\dist\\jquery.js",
+              "resolvedModule": "./node_modules/jquery/dist/jquery.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "37:46-50",
+              "moduleId": "./node_modules/jquery/dist/jquery.js",
+              "resolvedModuleId": "./node_modules/jquery/dist/jquery.js"
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+              "module": "./src2/page1.js",
+              "moduleName": "./src2/page1.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+              "resolvedModule": "./src2/page1.js",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "jquery",
+              "loc": "4:0-22",
+              "moduleId": "./src2/page1.js",
+              "resolvedModuleId": "./src2/page1.js"
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+              "module": "./src2/page1.js",
+              "moduleName": "./src2/page1.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+              "resolvedModule": "./src2/page1.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "jquery",
+              "loc": "5:30-31",
+              "moduleId": "./src2/page1.js",
+              "resolvedModuleId": "./src2/page1.js"
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page2.js",
+              "module": "./src2/page2.js",
+              "moduleName": "./src2/page2.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page2.js",
+              "resolvedModule": "./src2/page2.js",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "jquery",
+              "loc": "3:0-22",
+              "moduleId": "./src2/page2.js",
+              "resolvedModuleId": "./src2/page2.js"
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page2.js",
+              "module": "./src2/page2.js",
+              "moduleName": "./src2/page2.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page2.js",
+              "resolvedModule": "./src2/page2.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "jquery",
+              "loc": "4:21-22",
+              "moduleId": "./src2/page2.js",
+              "resolvedModuleId": "./src2/page2.js"
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+              "module": "./src2/page3.js",
+              "moduleName": "./src2/page3.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+              "resolvedModule": "./src2/page3.js",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "jquery",
+              "loc": "4:0-22",
+              "moduleId": "./src2/page3.js",
+              "resolvedModuleId": "./src2/page3.js"
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+              "module": "./src2/page3.js",
+              "moduleName": "./src2/page3.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+              "resolvedModule": "./src2/page3.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "jquery",
+              "loc": "5:12-13",
+              "moduleId": "./src2/page3.js",
+              "resolvedModuleId": "./src2/page3.js"
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "CommonJS bailout: this is used directly at 37:46-50",
+            "CommonJS bailout: module.exports is used directly at 15:43-57",
+            "CommonJS bailout: module.exports is used directly at 24:2-16"
+          ],
+          "depth": 1
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "page1",
+          "request": "./src2/page1.js"
+        },
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "page2",
+          "request": "./src2/page2.js"
+        },
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "page3",
+          "request": "./src2/page3.js"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "reason": "split chunk (cache group: defaultVendors)",
+      "size": 544098,
+      "sizes": {
+        "javascript": 544098
+      },
+      "names": [],
+      "idHints": [
+        "defaultVendors"
+      ],
+      "runtime": [
+        "page1"
+      ],
+      "files": [
+        "defaultVendors-node_modules_lodash_lodash_js.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "6eda0e8a36d27388bc39",
+      "childrenByOrder": {},
+      "id": "defaultVendors-node_modules_lodash_lodash_js",
+      "siblings": [
+        "src2_asyncModule1_js"
+      ],
+      "parents": [
+        "default-src2_module1_js",
+        "defaultVendors-node_modules_jquery_dist_jquery_js",
+        "page1~src2_module2_js_9f83ba11",
+        "page1~src2_page1_js_d5368c5f"
+      ],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 544098,
+          "sizes": {
+            "javascript": 544098
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+          "name": "./node_modules/lodash/lodash.js",
+          "nameForCondition": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+          "index": 8,
+          "preOrderIndex": 8,
+          "index2": 7,
+          "postOrderIndex": 7,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\asyncModule1.js",
+          "issuerName": "./src2/asyncModule1.js",
+          "issuerPath": [
+            {
+              "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+              "name": "./src2/page1.js",
+              "id": "./src2/page1.js"
+            },
+            {
+              "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\asyncModule1.js",
+              "name": "./src2/asyncModule1.js",
+              "id": "./src2/asyncModule1.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "./node_modules/lodash/lodash.js",
+          "issuerId": "./src2/asyncModule1.js",
+          "chunks": [
+            "defaultVendors-node_modules_lodash_lodash_js"
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+              "module": "./node_modules/lodash/lodash.js",
+              "moduleName": "./node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+              "resolvedModule": "./node_modules/lodash/lodash.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "439:50-57",
+              "moduleId": "./node_modules/lodash/lodash.js",
+              "resolvedModuleId": "./node_modules/lodash/lodash.js"
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+              "module": "./node_modules/lodash/lodash.js",
+              "moduleName": "./node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+              "resolvedModule": "./node_modules/lodash/lodash.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "439:62-78",
+              "moduleId": "./node_modules/lodash/lodash.js",
+              "resolvedModuleId": "./node_modules/lodash/lodash.js"
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+              "module": "./node_modules/lodash/lodash.js",
+              "moduleName": "./node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+              "resolvedModule": "./node_modules/lodash/lodash.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "439:82-89",
+              "moduleId": "./node_modules/lodash/lodash.js",
+              "resolvedModuleId": "./node_modules/lodash/lodash.js"
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+              "module": "./node_modules/lodash/lodash.js",
+              "moduleName": "./node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+              "resolvedModule": "./node_modules/lodash/lodash.js",
+              "type": "module decorator",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "442:63-69",
+              "moduleId": "./node_modules/lodash/lodash.js",
+              "resolvedModuleId": "./node_modules/lodash/lodash.js"
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+              "module": "./node_modules/lodash/lodash.js",
+              "moduleName": "./node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+              "resolvedModule": "./node_modules/lodash/lodash.js",
+              "type": "module decorator",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "442:74-80",
+              "moduleId": "./node_modules/lodash/lodash.js",
+              "resolvedModuleId": "./node_modules/lodash/lodash.js"
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+              "module": "./node_modules/lodash/lodash.js",
+              "moduleName": "./node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+              "resolvedModule": "./node_modules/lodash/lodash.js",
+              "type": "module decorator",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "442:93-99",
+              "moduleId": "./node_modules/lodash/lodash.js",
+              "resolvedModuleId": "./node_modules/lodash/lodash.js"
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+              "module": "./node_modules/lodash/lodash.js",
+              "moduleName": "./node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+              "resolvedModule": "./node_modules/lodash/lodash.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "17209:7-11",
+              "moduleId": "./node_modules/lodash/lodash.js",
+              "resolvedModuleId": "./node_modules/lodash/lodash.js"
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\asyncModule1.js",
+              "module": "./src2/asyncModule1.js",
+              "moduleName": "./src2/asyncModule1.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\asyncModule1.js",
+              "resolvedModule": "./src2/asyncModule1.js",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "lodash",
+              "loc": "1:0-22",
+              "moduleId": "./src2/asyncModule1.js",
+              "resolvedModuleId": "./src2/asyncModule1.js"
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\asyncModule1.js",
+              "module": "./src2/asyncModule1.js",
+              "moduleName": "./src2/asyncModule1.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\asyncModule1.js",
+              "resolvedModule": "./src2/asyncModule1.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "lodash",
+              "loc": "3:12-13",
+              "moduleId": "./src2/asyncModule1.js",
+              "resolvedModuleId": "./src2/asyncModule1.js"
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "CommonJS bailout: this is used directly at 17209:7-11",
+            "CommonJS bailout: exports is used directly at 439:50-57",
+            "CommonJS bailout: exports is used directly at 439:82-89"
+          ],
+          "depth": 2
+        }
+      ],
+      "origins": [
+        {
+          "module": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "moduleName": "./src2/page1.js",
+          "loc": "6:0-24",
+          "request": "./asyncModule1",
+          "moduleId": "./src2/page1.js"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": false,
+      "recorded": false,
+      "size": 27,
+      "sizes": {
+        "javascript": 27
+      },
+      "names": [
+        "page1~src2_module2_js_9f83ba11"
+      ],
+      "idHints": [],
+      "runtime": [
+        "page1"
+      ],
+      "files": [
+        "page1~src2_module2_js_9f83ba11.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "ff65c3720b1411fc1694",
+      "childrenByOrder": {},
+      "id": "page1~src2_module2_js_9f83ba11",
+      "siblings": [
+        "default-src2_module1_js",
+        "defaultVendors-node_modules_jquery_dist_jquery_js",
+        "page1~src2_page1_js_d5368c5f"
+      ],
+      "parents": [],
+      "children": [
+        "defaultVendors-node_modules_lodash_lodash_js",
+        "src2_asyncModule1_js"
+      ],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 27,
+          "sizes": {
+            "javascript": 27
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\module2.js",
+          "name": "./src2/module2.js",
+          "nameForCondition": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\module2.js",
+          "index": 2,
+          "preOrderIndex": 2,
+          "index2": 1,
+          "postOrderIndex": 1,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "issuerName": "./src2/page1.js",
+          "issuerPath": [
+            {
+              "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+              "name": "./src2/page1.js",
+              "id": "./src2/page1.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "./src2/module2.js",
+          "issuerId": "./src2/page1.js",
+          "chunks": [
+            "page1~src2_module2_js_9f83ba11"
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+              "module": "./src2/page1.js",
+              "moduleName": "./src2/page1.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+              "resolvedModule": "./src2/page1.js",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./module2",
+              "loc": "3:0-31",
+              "moduleId": "./src2/page1.js",
+              "resolvedModuleId": "./src2/page1.js"
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+              "module": "./src2/page1.js",
+              "moduleName": "./src2/page1.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+              "resolvedModule": "./src2/page1.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./module2",
+              "loc": "5:21-28",
+              "moduleId": "./src2/page1.js",
+              "resolvedModuleId": "./src2/page1.js"
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [],
+          "depth": 1
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "page1",
+          "request": "./src2/page1.js"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 8461,
+      "sizes": {
+        "javascript": 213,
+        "runtime": 8248
+      },
+      "names": [
+        "page1~src2_page1_js_d5368c5f"
+      ],
+      "idHints": [],
+      "runtime": [
+        "page1"
+      ],
+      "files": [
+        "page1~src2_page1_js_d5368c5f.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "d7251e24869d05a1b134",
+      "childrenByOrder": {},
+      "id": "page1~src2_page1_js_d5368c5f",
+      "siblings": [
+        "default-src2_module1_js",
+        "defaultVendors-node_modules_jquery_dist_jquery_js",
+        "page1~src2_module2_js_9f83ba11"
+      ],
+      "parents": [],
+      "children": [
+        "defaultVendors-node_modules_lodash_lodash_js",
+        "src2_asyncModule1_js"
+      ],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 213,
+          "sizes": {
+            "javascript": 213
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "name": "./src2/page1.js",
+          "nameForCondition": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "index": 0,
+          "preOrderIndex": 0,
+          "index2": 3,
+          "postOrderIndex": 3,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "./src2/page1.js",
+          "issuerId": null,
+          "chunks": [
+            "page1~src2_page1_js_d5368c5f"
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./src2/page1.js",
+              "loc": "page1",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": 0
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 886,
+          "sizes": {
+            "runtime": 886
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/chunk loaded",
+          "name": "webpack/runtime/chunk loaded",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "page1~src2_page1_js_d5368c5f"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 267,
+          "sizes": {
+            "runtime": 267
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/compat get default export",
+          "name": "webpack/runtime/compat get default export",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "page1~src2_page1_js_d5368c5f"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 308,
+          "sizes": {
+            "runtime": 308
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/define property getters",
+          "name": "webpack/runtime/define property getters",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "page1~src2_page1_js_d5368c5f"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 326,
+          "sizes": {
+            "runtime": 326
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/ensure chunk",
+          "name": "webpack/runtime/ensure chunk",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "page1~src2_page1_js_d5368c5f"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 167,
+          "sizes": {
+            "runtime": 167
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/get javascript chunk filename",
+          "name": "webpack/runtime/get javascript chunk filename",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "page1~src2_page1_js_d5368c5f"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 221,
+          "sizes": {
+            "runtime": 221
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/global",
+          "name": "webpack/runtime/global",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "page1~src2_page1_js_d5368c5f"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 88,
+          "sizes": {
+            "runtime": 88
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/hasOwnProperty shorthand",
+          "name": "webpack/runtime/hasOwnProperty shorthand",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "page1~src2_page1_js_d5368c5f"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 3212,
+          "sizes": {
+            "runtime": 3212
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/jsonp chunk loading",
+          "name": "webpack/runtime/jsonp chunk loading",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "page1~src2_page1_js_d5368c5f"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 1509,
+          "sizes": {
+            "runtime": 1509
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/load script",
+          "name": "webpack/runtime/load script",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "page1~src2_page1_js_d5368c5f"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 274,
+          "sizes": {
+            "runtime": 274
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/make namespace object",
+          "name": "webpack/runtime/make namespace object",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "page1~src2_page1_js_d5368c5f"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 123,
+          "sizes": {
+            "runtime": 123
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/node module decorator",
+          "name": "webpack/runtime/node module decorator",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "page1~src2_page1_js_d5368c5f"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 867,
+          "sizes": {
+            "runtime": 867
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/publicPath",
+          "name": "webpack/runtime/publicPath",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "page1~src2_page1_js_d5368c5f"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "page1",
+          "request": "./src2/page1.js"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 3469,
+      "sizes": {
+        "javascript": 80,
+        "runtime": 3389
+      },
+      "names": [
+        "page2"
+      ],
+      "idHints": [],
+      "runtime": [
+        "page2"
+      ],
+      "files": [
+        "page2.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "92caba93ffce0d04797e",
+      "childrenByOrder": {},
+      "id": "page2",
+      "siblings": [
+        "default-src2_module1_js",
+        "defaultVendors-node_modules_jquery_dist_jquery_js"
+      ],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 80,
+          "sizes": {
+            "javascript": 80
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page2.js",
+          "name": "./src2/page2.js",
+          "nameForCondition": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page2.js",
+          "index": 4,
+          "preOrderIndex": 4,
+          "index2": 4,
+          "postOrderIndex": 4,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "./src2/page2.js",
+          "issuerId": null,
+          "chunks": [
+            "page2"
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./src2/page2.js",
+              "loc": "page2",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": 0
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 886,
+          "sizes": {
+            "runtime": 886
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/chunk loaded",
+          "name": "webpack/runtime/chunk loaded",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "page2"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 267,
+          "sizes": {
+            "runtime": 267
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/compat get default export",
+          "name": "webpack/runtime/compat get default export",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "page2"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 308,
+          "sizes": {
+            "runtime": 308
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/define property getters",
+          "name": "webpack/runtime/define property getters",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "page2"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 88,
+          "sizes": {
+            "runtime": 88
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/hasOwnProperty shorthand",
+          "name": "webpack/runtime/hasOwnProperty shorthand",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "page2"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 1566,
+          "sizes": {
+            "runtime": 1566
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/jsonp chunk loading",
+          "name": "webpack/runtime/jsonp chunk loading",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "page2"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 274,
+          "sizes": {
+            "runtime": 274
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/make namespace object",
+          "name": "webpack/runtime/make namespace object",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "page2"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "page2",
+          "request": "./src2/page2.js"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": false,
+      "recorded": false,
+      "size": 27,
+      "sizes": {
+        "javascript": 27
+      },
+      "names": [
+        "page3~src2_module3_js_df0c531f"
+      ],
+      "idHints": [],
+      "runtime": [
+        "page3"
+      ],
+      "files": [
+        "page3~src2_module3_js_df0c531f.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "7abee515eca6bf81b785",
+      "childrenByOrder": {},
+      "id": "page3~src2_module3_js_df0c531f",
+      "siblings": [
+        "default-src2_module1_js",
+        "defaultVendors-node_modules_jquery_dist_jquery_js",
+        "page3~src2_page3_js_1cbada73"
+      ],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 27,
+          "sizes": {
+            "javascript": 27
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\module3.js",
+          "name": "./src2/module3.js",
+          "nameForCondition": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\module3.js",
+          "index": 6,
+          "preOrderIndex": 6,
+          "index2": 5,
+          "postOrderIndex": 5,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+          "issuerName": "./src2/page3.js",
+          "issuerPath": [
+            {
+              "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+              "name": "./src2/page3.js",
+              "id": "./src2/page3.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "./src2/module3.js",
+          "issuerId": "./src2/page3.js",
+          "chunks": [
+            "page3~src2_module3_js_df0c531f"
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+              "module": "./src2/page3.js",
+              "moduleName": "./src2/page3.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+              "resolvedModule": "./src2/page3.js",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./module3",
+              "loc": "3:0-31",
+              "moduleId": "./src2/page3.js",
+              "resolvedModuleId": "./src2/page3.js"
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+              "module": "./src2/page3.js",
+              "moduleName": "./src2/page3.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+              "resolvedModule": "./src2/page3.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./module3",
+              "loc": "5:24-31",
+              "moduleId": "./src2/page3.js",
+              "resolvedModuleId": "./src2/page3.js"
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [],
+          "depth": 1
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "page3",
+          "request": "./src2/page3.js"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 3533,
+      "sizes": {
+        "javascript": 121,
+        "runtime": 3412
+      },
+      "names": [
+        "page3~src2_page3_js_1cbada73"
+      ],
+      "idHints": [],
+      "runtime": [
+        "page3"
+      ],
+      "files": [
+        "page3~src2_page3_js_1cbada73.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "24f6117989853afedb93",
+      "childrenByOrder": {},
+      "id": "page3~src2_page3_js_1cbada73",
+      "siblings": [
+        "default-src2_module1_js",
+        "defaultVendors-node_modules_jquery_dist_jquery_js",
+        "page3~src2_module3_js_df0c531f"
+      ],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 121,
+          "sizes": {
+            "javascript": 121
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+          "name": "./src2/page3.js",
+          "nameForCondition": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+          "index": 5,
+          "preOrderIndex": 5,
+          "index2": 6,
+          "postOrderIndex": 6,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "./src2/page3.js",
+          "issuerId": null,
+          "chunks": [
+            "page3~src2_page3_js_1cbada73"
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./src2/page3.js",
+              "loc": "page3",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": 0
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 886,
+          "sizes": {
+            "runtime": 886
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/chunk loaded",
+          "name": "webpack/runtime/chunk loaded",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "page3~src2_page3_js_1cbada73"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 267,
+          "sizes": {
+            "runtime": 267
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/compat get default export",
+          "name": "webpack/runtime/compat get default export",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "page3~src2_page3_js_1cbada73"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 308,
+          "sizes": {
+            "runtime": 308
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/define property getters",
+          "name": "webpack/runtime/define property getters",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "page3~src2_page3_js_1cbada73"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 88,
+          "sizes": {
+            "runtime": 88
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/hasOwnProperty shorthand",
+          "name": "webpack/runtime/hasOwnProperty shorthand",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "page3~src2_page3_js_1cbada73"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 1589,
+          "sizes": {
+            "runtime": 1589
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/jsonp chunk loading",
+          "name": "webpack/runtime/jsonp chunk loading",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "page3~src2_page3_js_1cbada73"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 274,
+          "sizes": {
+            "runtime": 274
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/make namespace object",
+          "name": "webpack/runtime/make namespace object",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "page3~src2_page3_js_1cbada73"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "page3",
+          "request": "./src2/page3.js"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 39,
+      "sizes": {
+        "javascript": 39
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "page1"
+      ],
+      "files": [
+        "src2_asyncModule1_js.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "d22d06f7e5f91156dc4f",
+      "childrenByOrder": {},
+      "id": "src2_asyncModule1_js",
+      "siblings": [
+        "defaultVendors-node_modules_lodash_lodash_js"
+      ],
+      "parents": [
+        "default-src2_module1_js",
+        "defaultVendors-node_modules_jquery_dist_jquery_js",
+        "page1~src2_module2_js_9f83ba11",
+        "page1~src2_page1_js_d5368c5f"
+      ],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 39,
+          "sizes": {
+            "javascript": 39
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\asyncModule1.js",
+          "name": "./src2/asyncModule1.js",
+          "nameForCondition": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\asyncModule1.js",
+          "index": 7,
+          "preOrderIndex": 7,
+          "index2": 8,
+          "postOrderIndex": 8,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "issuerName": "./src2/page1.js",
+          "issuerPath": [
+            {
+              "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+              "name": "./src2/page1.js",
+              "id": "./src2/page1.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "./src2/asyncModule1.js",
+          "issuerId": "./src2/page1.js",
+          "chunks": [
+            "src2_asyncModule1_js"
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+              "module": "./src2/page1.js",
+              "moduleName": "./src2/page1.js",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+              "resolvedModule": "./src2/page1.js",
+              "type": "import()",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./asyncModule1",
+              "loc": "6:0-24",
+              "moduleId": "./src2/page1.js",
+              "resolvedModuleId": "./src2/page1.js"
+            }
+          ],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": 1
+        }
+      ],
+      "origins": [
+        {
+          "module": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "moduleName": "./src2/page1.js",
+          "loc": "6:0-24",
+          "request": "./asyncModule1",
+          "moduleId": "./src2/page1.js"
+        }
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 213,
+      "sizes": {
+        "javascript": 213
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+      "name": "./src2/page1.js",
+      "nameForCondition": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+      "index": 0,
+      "preOrderIndex": 0,
+      "index2": 3,
+      "postOrderIndex": 3,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "./src2/page1.js",
+      "issuerId": null,
+      "chunks": [
+        "page1~src2_page1_js_d5368c5f"
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./src2/page1.js",
+          "loc": "page1",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 80,
+      "sizes": {
+        "javascript": 80
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page2.js",
+      "name": "./src2/page2.js",
+      "nameForCondition": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page2.js",
+      "index": 4,
+      "preOrderIndex": 4,
+      "index2": 4,
+      "postOrderIndex": 4,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "./src2/page2.js",
+      "issuerId": null,
+      "chunks": [
+        "page2"
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./src2/page2.js",
+          "loc": "page2",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 121,
+      "sizes": {
+        "javascript": 121
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+      "name": "./src2/page3.js",
+      "nameForCondition": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+      "index": 5,
+      "preOrderIndex": 5,
+      "index2": 6,
+      "postOrderIndex": 6,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "./src2/page3.js",
+      "issuerId": null,
+      "chunks": [
+        "page3~src2_page3_js_1cbada73"
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./src2/page3.js",
+          "loc": "page3",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 27,
+      "sizes": {
+        "javascript": 27
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\module1.js",
+      "name": "./src2/module1.js",
+      "nameForCondition": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\module1.js",
+      "index": 1,
+      "preOrderIndex": 1,
+      "index2": 0,
+      "postOrderIndex": 0,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+      "issuerName": "./src2/page1.js",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "name": "./src2/page1.js",
+          "id": "./src2/page1.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "./src2/module1.js",
+      "issuerId": "./src2/page1.js",
+      "chunks": [
+        "default-src2_module1_js"
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "module": "./src2/page1.js",
+          "moduleName": "./src2/page1.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "resolvedModule": "./src2/page1.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./module1",
+          "loc": "1:0-31",
+          "moduleId": "./src2/page1.js",
+          "resolvedModuleId": "./src2/page1.js"
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "module": "./src2/page1.js",
+          "moduleName": "./src2/page1.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "resolvedModule": "./src2/page1.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./module1",
+          "loc": "5:12-19",
+          "moduleId": "./src2/page1.js",
+          "resolvedModuleId": "./src2/page1.js"
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page2.js",
+          "module": "./src2/page2.js",
+          "moduleName": "./src2/page2.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page2.js",
+          "resolvedModule": "./src2/page2.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./module1",
+          "loc": "1:0-31",
+          "moduleId": "./src2/page2.js",
+          "resolvedModuleId": "./src2/page2.js"
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page2.js",
+          "module": "./src2/page2.js",
+          "moduleName": "./src2/page2.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page2.js",
+          "resolvedModule": "./src2/page2.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./module1",
+          "loc": "4:12-19",
+          "moduleId": "./src2/page2.js",
+          "resolvedModuleId": "./src2/page2.js"
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+          "module": "./src2/page3.js",
+          "moduleName": "./src2/page3.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+          "resolvedModule": "./src2/page3.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./module1",
+          "loc": "1:0-31",
+          "moduleId": "./src2/page3.js",
+          "resolvedModuleId": "./src2/page3.js"
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+          "module": "./src2/page3.js",
+          "moduleName": "./src2/page3.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+          "resolvedModule": "./src2/page3.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./module1",
+          "loc": "5:15-22",
+          "moduleId": "./src2/page3.js",
+          "resolvedModuleId": "./src2/page3.js"
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 27,
+      "sizes": {
+        "javascript": 27
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\module2.js",
+      "name": "./src2/module2.js",
+      "nameForCondition": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\module2.js",
+      "index": 2,
+      "preOrderIndex": 2,
+      "index2": 1,
+      "postOrderIndex": 1,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+      "issuerName": "./src2/page1.js",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "name": "./src2/page1.js",
+          "id": "./src2/page1.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "./src2/module2.js",
+      "issuerId": "./src2/page1.js",
+      "chunks": [
+        "page1~src2_module2_js_9f83ba11"
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "module": "./src2/page1.js",
+          "moduleName": "./src2/page1.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "resolvedModule": "./src2/page1.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./module2",
+          "loc": "3:0-31",
+          "moduleId": "./src2/page1.js",
+          "resolvedModuleId": "./src2/page1.js"
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "module": "./src2/page1.js",
+          "moduleName": "./src2/page1.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "resolvedModule": "./src2/page1.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./module2",
+          "loc": "5:21-28",
+          "moduleId": "./src2/page1.js",
+          "resolvedModuleId": "./src2/page1.js"
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 285314,
+      "sizes": {
+        "javascript": 285314
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\jquery\\dist\\jquery.js",
+      "name": "./node_modules/jquery/dist/jquery.js",
+      "nameForCondition": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\jquery\\dist\\jquery.js",
+      "index": 3,
+      "preOrderIndex": 3,
+      "index2": 2,
+      "postOrderIndex": 2,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+      "issuerName": "./src2/page1.js",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "name": "./src2/page1.js",
+          "id": "./src2/page1.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "./node_modules/jquery/dist/jquery.js",
+      "issuerId": "./src2/page1.js",
+      "chunks": [
+        "defaultVendors-node_modules_jquery_dist_jquery_js"
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\jquery\\dist\\jquery.js",
+          "module": "./node_modules/jquery/dist/jquery.js",
+          "moduleName": "./node_modules/jquery/dist/jquery.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\jquery\\dist\\jquery.js",
+          "resolvedModule": "./node_modules/jquery/dist/jquery.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "15:43-57",
+          "moduleId": "./node_modules/jquery/dist/jquery.js",
+          "resolvedModuleId": "./node_modules/jquery/dist/jquery.js"
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\jquery\\dist\\jquery.js",
+          "module": "./node_modules/jquery/dist/jquery.js",
+          "moduleName": "./node_modules/jquery/dist/jquery.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\jquery\\dist\\jquery.js",
+          "resolvedModule": "./node_modules/jquery/dist/jquery.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "24:2-16",
+          "moduleId": "./node_modules/jquery/dist/jquery.js",
+          "resolvedModuleId": "./node_modules/jquery/dist/jquery.js"
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\jquery\\dist\\jquery.js",
+          "module": "./node_modules/jquery/dist/jquery.js",
+          "moduleName": "./node_modules/jquery/dist/jquery.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\jquery\\dist\\jquery.js",
+          "resolvedModule": "./node_modules/jquery/dist/jquery.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "37:46-50",
+          "moduleId": "./node_modules/jquery/dist/jquery.js",
+          "resolvedModuleId": "./node_modules/jquery/dist/jquery.js"
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "module": "./src2/page1.js",
+          "moduleName": "./src2/page1.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "resolvedModule": "./src2/page1.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "jquery",
+          "loc": "4:0-22",
+          "moduleId": "./src2/page1.js",
+          "resolvedModuleId": "./src2/page1.js"
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "module": "./src2/page1.js",
+          "moduleName": "./src2/page1.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "resolvedModule": "./src2/page1.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "jquery",
+          "loc": "5:30-31",
+          "moduleId": "./src2/page1.js",
+          "resolvedModuleId": "./src2/page1.js"
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page2.js",
+          "module": "./src2/page2.js",
+          "moduleName": "./src2/page2.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page2.js",
+          "resolvedModule": "./src2/page2.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "jquery",
+          "loc": "3:0-22",
+          "moduleId": "./src2/page2.js",
+          "resolvedModuleId": "./src2/page2.js"
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page2.js",
+          "module": "./src2/page2.js",
+          "moduleName": "./src2/page2.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page2.js",
+          "resolvedModule": "./src2/page2.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "jquery",
+          "loc": "4:21-22",
+          "moduleId": "./src2/page2.js",
+          "resolvedModuleId": "./src2/page2.js"
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+          "module": "./src2/page3.js",
+          "moduleName": "./src2/page3.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+          "resolvedModule": "./src2/page3.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "jquery",
+          "loc": "4:0-22",
+          "moduleId": "./src2/page3.js",
+          "resolvedModuleId": "./src2/page3.js"
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+          "module": "./src2/page3.js",
+          "moduleName": "./src2/page3.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+          "resolvedModule": "./src2/page3.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "jquery",
+          "loc": "5:12-13",
+          "moduleId": "./src2/page3.js",
+          "resolvedModuleId": "./src2/page3.js"
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [
+        "CommonJS bailout: this is used directly at 37:46-50",
+        "CommonJS bailout: module.exports is used directly at 15:43-57",
+        "CommonJS bailout: module.exports is used directly at 24:2-16"
+      ],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 27,
+      "sizes": {
+        "javascript": 27
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\module3.js",
+      "name": "./src2/module3.js",
+      "nameForCondition": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\module3.js",
+      "index": 6,
+      "preOrderIndex": 6,
+      "index2": 5,
+      "postOrderIndex": 5,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+      "issuerName": "./src2/page3.js",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+          "name": "./src2/page3.js",
+          "id": "./src2/page3.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "./src2/module3.js",
+      "issuerId": "./src2/page3.js",
+      "chunks": [
+        "page3~src2_module3_js_df0c531f"
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+          "module": "./src2/page3.js",
+          "moduleName": "./src2/page3.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+          "resolvedModule": "./src2/page3.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./module3",
+          "loc": "3:0-31",
+          "moduleId": "./src2/page3.js",
+          "resolvedModuleId": "./src2/page3.js"
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+          "module": "./src2/page3.js",
+          "moduleName": "./src2/page3.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page3.js",
+          "resolvedModule": "./src2/page3.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./module3",
+          "loc": "5:24-31",
+          "moduleId": "./src2/page3.js",
+          "resolvedModuleId": "./src2/page3.js"
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 39,
+      "sizes": {
+        "javascript": 39
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\asyncModule1.js",
+      "name": "./src2/asyncModule1.js",
+      "nameForCondition": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\asyncModule1.js",
+      "index": 7,
+      "preOrderIndex": 7,
+      "index2": 8,
+      "postOrderIndex": 8,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+      "issuerName": "./src2/page1.js",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "name": "./src2/page1.js",
+          "id": "./src2/page1.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "./src2/asyncModule1.js",
+      "issuerId": "./src2/page1.js",
+      "chunks": [
+        "src2_asyncModule1_js"
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "module": "./src2/page1.js",
+          "moduleName": "./src2/page1.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "resolvedModule": "./src2/page1.js",
+          "type": "import()",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./asyncModule1",
+          "loc": "6:0-24",
+          "moduleId": "./src2/page1.js",
+          "resolvedModuleId": "./src2/page1.js"
+        }
+      ],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 544098,
+      "sizes": {
+        "javascript": 544098
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+      "name": "./node_modules/lodash/lodash.js",
+      "nameForCondition": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+      "index": 8,
+      "preOrderIndex": 8,
+      "index2": 7,
+      "postOrderIndex": 7,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\asyncModule1.js",
+      "issuerName": "./src2/asyncModule1.js",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\page1.js",
+          "name": "./src2/page1.js",
+          "id": "./src2/page1.js"
+        },
+        {
+          "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\asyncModule1.js",
+          "name": "./src2/asyncModule1.js",
+          "id": "./src2/asyncModule1.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "./node_modules/lodash/lodash.js",
+      "issuerId": "./src2/asyncModule1.js",
+      "chunks": [
+        "defaultVendors-node_modules_lodash_lodash_js"
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+          "module": "./node_modules/lodash/lodash.js",
+          "moduleName": "./node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+          "resolvedModule": "./node_modules/lodash/lodash.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "439:50-57",
+          "moduleId": "./node_modules/lodash/lodash.js",
+          "resolvedModuleId": "./node_modules/lodash/lodash.js"
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+          "module": "./node_modules/lodash/lodash.js",
+          "moduleName": "./node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+          "resolvedModule": "./node_modules/lodash/lodash.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "439:62-78",
+          "moduleId": "./node_modules/lodash/lodash.js",
+          "resolvedModuleId": "./node_modules/lodash/lodash.js"
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+          "module": "./node_modules/lodash/lodash.js",
+          "moduleName": "./node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+          "resolvedModule": "./node_modules/lodash/lodash.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "439:82-89",
+          "moduleId": "./node_modules/lodash/lodash.js",
+          "resolvedModuleId": "./node_modules/lodash/lodash.js"
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+          "module": "./node_modules/lodash/lodash.js",
+          "moduleName": "./node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+          "resolvedModule": "./node_modules/lodash/lodash.js",
+          "type": "module decorator",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "442:63-69",
+          "moduleId": "./node_modules/lodash/lodash.js",
+          "resolvedModuleId": "./node_modules/lodash/lodash.js"
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+          "module": "./node_modules/lodash/lodash.js",
+          "moduleName": "./node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+          "resolvedModule": "./node_modules/lodash/lodash.js",
+          "type": "module decorator",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "442:74-80",
+          "moduleId": "./node_modules/lodash/lodash.js",
+          "resolvedModuleId": "./node_modules/lodash/lodash.js"
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+          "module": "./node_modules/lodash/lodash.js",
+          "moduleName": "./node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+          "resolvedModule": "./node_modules/lodash/lodash.js",
+          "type": "module decorator",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "442:93-99",
+          "moduleId": "./node_modules/lodash/lodash.js",
+          "resolvedModuleId": "./node_modules/lodash/lodash.js"
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+          "module": "./node_modules/lodash/lodash.js",
+          "moduleName": "./node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\lodash\\lodash.js",
+          "resolvedModule": "./node_modules/lodash/lodash.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "17209:7-11",
+          "moduleId": "./node_modules/lodash/lodash.js",
+          "resolvedModuleId": "./node_modules/lodash/lodash.js"
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\asyncModule1.js",
+          "module": "./src2/asyncModule1.js",
+          "moduleName": "./src2/asyncModule1.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\asyncModule1.js",
+          "resolvedModule": "./src2/asyncModule1.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "lodash",
+          "loc": "1:0-22",
+          "moduleId": "./src2/asyncModule1.js",
+          "resolvedModuleId": "./src2/asyncModule1.js"
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\asyncModule1.js",
+          "module": "./src2/asyncModule1.js",
+          "moduleName": "./src2/asyncModule1.js",
+          "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\asyncModule1.js",
+          "resolvedModule": "./src2/asyncModule1.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "lodash",
+          "loc": "3:12-13",
+          "moduleId": "./src2/asyncModule1.js",
+          "resolvedModuleId": "./src2/asyncModule1.js"
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [
+        "CommonJS bailout: this is used directly at 17209:7-11",
+        "CommonJS bailout: exports is used directly at 439:50-57",
+        "CommonJS bailout: exports is used directly at 439:82-89"
+      ],
+      "depth": 2
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 886,
+      "sizes": {
+        "runtime": 886
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/chunk loaded",
+      "name": "webpack/runtime/chunk loaded",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "page1~src2_page1_js_d5368c5f"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 886,
+      "sizes": {
+        "runtime": 886
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/chunk loaded",
+      "name": "webpack/runtime/chunk loaded",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "page2"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 886,
+      "sizes": {
+        "runtime": 886
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/chunk loaded",
+      "name": "webpack/runtime/chunk loaded",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "page3~src2_page3_js_1cbada73"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 267,
+      "sizes": {
+        "runtime": 267
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/compat get default export",
+      "name": "webpack/runtime/compat get default export",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "page1~src2_page1_js_d5368c5f"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 267,
+      "sizes": {
+        "runtime": 267
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/compat get default export",
+      "name": "webpack/runtime/compat get default export",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "page2"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 267,
+      "sizes": {
+        "runtime": 267
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/compat get default export",
+      "name": "webpack/runtime/compat get default export",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "page3~src2_page3_js_1cbada73"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 308,
+      "sizes": {
+        "runtime": 308
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/define property getters",
+      "name": "webpack/runtime/define property getters",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "page1~src2_page1_js_d5368c5f"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 308,
+      "sizes": {
+        "runtime": 308
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/define property getters",
+      "name": "webpack/runtime/define property getters",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "page2"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 308,
+      "sizes": {
+        "runtime": 308
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/define property getters",
+      "name": "webpack/runtime/define property getters",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "page3~src2_page3_js_1cbada73"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 326,
+      "sizes": {
+        "runtime": 326
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/ensure chunk",
+      "name": "webpack/runtime/ensure chunk",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "page1~src2_page1_js_d5368c5f"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 167,
+      "sizes": {
+        "runtime": 167
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/get javascript chunk filename",
+      "name": "webpack/runtime/get javascript chunk filename",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "page1~src2_page1_js_d5368c5f"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 221,
+      "sizes": {
+        "runtime": 221
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/global",
+      "name": "webpack/runtime/global",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "page1~src2_page1_js_d5368c5f"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 88,
+      "sizes": {
+        "runtime": 88
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/hasOwnProperty shorthand",
+      "name": "webpack/runtime/hasOwnProperty shorthand",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "page1~src2_page1_js_d5368c5f"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 88,
+      "sizes": {
+        "runtime": 88
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/hasOwnProperty shorthand",
+      "name": "webpack/runtime/hasOwnProperty shorthand",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "page2"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 88,
+      "sizes": {
+        "runtime": 88
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/hasOwnProperty shorthand",
+      "name": "webpack/runtime/hasOwnProperty shorthand",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "page3~src2_page3_js_1cbada73"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 3212,
+      "sizes": {
+        "runtime": 3212
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/jsonp chunk loading",
+      "name": "webpack/runtime/jsonp chunk loading",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "page1~src2_page1_js_d5368c5f"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 1566,
+      "sizes": {
+        "runtime": 1566
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/jsonp chunk loading",
+      "name": "webpack/runtime/jsonp chunk loading",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "page2"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 1589,
+      "sizes": {
+        "runtime": 1589
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/jsonp chunk loading",
+      "name": "webpack/runtime/jsonp chunk loading",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "page3~src2_page3_js_1cbada73"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 1509,
+      "sizes": {
+        "runtime": 1509
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/load script",
+      "name": "webpack/runtime/load script",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "page1~src2_page1_js_d5368c5f"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 274,
+      "sizes": {
+        "runtime": 274
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/make namespace object",
+      "name": "webpack/runtime/make namespace object",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "page1~src2_page1_js_d5368c5f"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 274,
+      "sizes": {
+        "runtime": 274
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/make namespace object",
+      "name": "webpack/runtime/make namespace object",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "page2"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 274,
+      "sizes": {
+        "runtime": 274
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/make namespace object",
+      "name": "webpack/runtime/make namespace object",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "page3~src2_page3_js_1cbada73"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 123,
+      "sizes": {
+        "runtime": 123
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/node module decorator",
+      "name": "webpack/runtime/node module decorator",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "page1~src2_page1_js_d5368c5f"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 867,
+      "sizes": {
+        "runtime": 867
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/publicPath",
+      "name": "webpack/runtime/publicPath",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        "page1~src2_page1_js_d5368c5f"
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    }
+  ],
+  "entrypoints": {
+    "page1": {
+      "name": "page1",
+      "chunks": [
+        "defaultVendors-node_modules_jquery_dist_jquery_js",
+        "default-src2_module1_js",
+        "page1~src2_module2_js_9f83ba11",
+        "page1~src2_page1_js_d5368c5f"
+      ],
+      "assets": [
+        {
+          "name": "defaultVendors-node_modules_jquery_dist_jquery_js.js",
+          "size": 323308
+        },
+        {
+          "name": "default-src2_module1_js.js",
+          "size": 923
+        },
+        {
+          "name": "page1~src2_module2_js_9f83ba11.js",
+          "size": 930
+        },
+        {
+          "name": "page1~src2_page1_js_d5368c5f.js",
+          "size": 16019
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 341180,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "page2": {
+      "name": "page2",
+      "chunks": [
+        "defaultVendors-node_modules_jquery_dist_jquery_js",
+        "default-src2_module1_js",
+        "page2"
+      ],
+      "assets": [
+        {
+          "name": "defaultVendors-node_modules_jquery_dist_jquery_js.js",
+          "size": 323308
+        },
+        {
+          "name": "default-src2_module1_js.js",
+          "size": 923
+        },
+        {
+          "name": "page2.js",
+          "size": 8499
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 332730,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "page3": {
+      "name": "page3",
+      "chunks": [
+        "defaultVendors-node_modules_jquery_dist_jquery_js",
+        "default-src2_module1_js",
+        "page3~src2_module3_js_df0c531f",
+        "page3~src2_page3_js_1cbada73"
+      ],
+      "assets": [
+        {
+          "name": "defaultVendors-node_modules_jquery_dist_jquery_js.js",
+          "size": 323308
+        },
+        {
+          "name": "default-src2_module1_js.js",
+          "size": 923
+        },
+        {
+          "name": "page3~src2_module3_js_df0c531f.js",
+          "size": 930
+        },
+        {
+          "name": "page3~src2_page3_js_1cbada73.js",
+          "size": 8884
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 334045,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    }
+  },
+  "namedChunkGroups": {
+    "page1": {
+      "name": "page1",
+      "chunks": [
+        "defaultVendors-node_modules_jquery_dist_jquery_js",
+        "default-src2_module1_js",
+        "page1~src2_module2_js_9f83ba11",
+        "page1~src2_page1_js_d5368c5f"
+      ],
+      "assets": [
+        {
+          "name": "defaultVendors-node_modules_jquery_dist_jquery_js.js",
+          "size": 323308
+        },
+        {
+          "name": "default-src2_module1_js.js",
+          "size": 923
+        },
+        {
+          "name": "page1~src2_module2_js_9f83ba11.js",
+          "size": 930
+        },
+        {
+          "name": "page1~src2_page1_js_d5368c5f.js",
+          "size": 16019
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 341180,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "page2": {
+      "name": "page2",
+      "chunks": [
+        "defaultVendors-node_modules_jquery_dist_jquery_js",
+        "default-src2_module1_js",
+        "page2"
+      ],
+      "assets": [
+        {
+          "name": "defaultVendors-node_modules_jquery_dist_jquery_js.js",
+          "size": 323308
+        },
+        {
+          "name": "default-src2_module1_js.js",
+          "size": 923
+        },
+        {
+          "name": "page2.js",
+          "size": 8499
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 332730,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    },
+    "page3": {
+      "name": "page3",
+      "chunks": [
+        "defaultVendors-node_modules_jquery_dist_jquery_js",
+        "default-src2_module1_js",
+        "page3~src2_module3_js_df0c531f",
+        "page3~src2_page3_js_1cbada73"
+      ],
+      "assets": [
+        {
+          "name": "defaultVendors-node_modules_jquery_dist_jquery_js.js",
+          "size": 323308
+        },
+        {
+          "name": "default-src2_module1_js.js",
+          "size": 923
+        },
+        {
+          "name": "page3~src2_module3_js_df0c531f.js",
+          "size": 930
+        },
+        {
+          "name": "page3~src2_page3_js_1cbada73.js",
+          "size": 8884
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 334045,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    }
+  },
+  "errors": [],
+  "errorsCount": 0,
+  "warnings": [],
+  "warningsCount": 0,
+  "children": [
+    {
+      "name": "HtmlWebpackCompiler",
+      "hash": "c3755ea2d253ee74ddb0",
+      "version": "5.73.0",
+      "time": 81,
+      "builtAt": 1721114809725,
+      "publicPath": "",
+      "outputPath": "C:\\Users\\yuzho\\Desktop\\webpack_good\\dist",
+      "assetsByChunkName": {},
+      "assets": [],
+      "chunks": [
+        {
+          "rendered": true,
+          "initial": true,
+          "entry": true,
+          "recorded": false,
+          "size": 1455,
+          "sizes": {
+            "javascript": 527,
+            "runtime": 928
+          },
+          "names": [
+            "HtmlWebpackPlugin_0-C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html"
+          ],
+          "idHints": [],
+          "runtime": [
+            "HtmlWebpackPlugin_0-C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!./src2/index.html"
+          ],
+          "files": [],
+          "auxiliaryFiles": [],
+          "hash": "4c308ff5398e9b7394b5",
+          "childrenByOrder": {},
+          "id": "HtmlWebpackPlugin_0-C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html",
+          "siblings": [],
+          "parents": [],
+          "children": [],
+          "modules": [
+            {
+              "type": "module",
+              "moduleType": "javascript/auto",
+              "layer": null,
+              "size": 450,
+              "sizes": {
+                "javascript": 450
+              },
+              "built": true,
+              "codeGenerated": true,
+              "buildTimeExecuted": false,
+              "cached": false,
+              "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html",
+              "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src2/index.html",
+              "nameForCondition": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html",
+              "index": 1,
+              "preOrderIndex": 1,
+              "index2": 1,
+              "postOrderIndex": 1,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": false,
+              "issuer": null,
+              "issuerName": null,
+              "issuerPath": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": "./node_modules/html-webpack-plugin/lib/loader.js!./src2/index.html",
+              "issuerId": null,
+              "chunks": [
+                "HtmlWebpackPlugin_0-C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html"
+              ],
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html",
+                  "module": "./node_modules/html-webpack-plugin/lib/loader.js!./src2/index.html",
+                  "moduleName": "./node_modules/html-webpack-plugin/lib/loader.js!./src2/index.html",
+                  "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html",
+                  "resolvedModule": "./node_modules/html-webpack-plugin/lib/loader.js!./src2/index.html",
+                  "type": "cjs self exports reference",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": null,
+                  "loc": "1:100-114",
+                  "moduleId": "./node_modules/html-webpack-plugin/lib/loader.js!./src2/index.html",
+                  "resolvedModuleId": "./node_modules/html-webpack-plugin/lib/loader.js!./src2/index.html"
+                },
+                {
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "resolvedModuleIdentifier": null,
+                  "resolvedModule": null,
+                  "type": "entry",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html",
+                  "loc": "HtmlWebpackPlugin_0-C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                },
+                {
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "resolvedModuleIdentifier": null,
+                  "resolvedModule": null,
+                  "type": null,
+                  "active": true,
+                  "explanation": "used as library export",
+                  "userRequest": null,
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                }
+              ],
+              "usedExports": null,
+              "providedExports": null,
+              "optimizationBailout": [
+                "CommonJS bailout: module.exports is used directly at 1:100-114"
+              ],
+              "depth": 0
+            },
+            {
+              "type": "module",
+              "moduleType": "javascript/esm",
+              "layer": null,
+              "size": 77,
+              "sizes": {
+                "javascript": 77
+              },
+              "built": true,
+              "codeGenerated": true,
+              "buildTimeExecuted": false,
+              "cached": false,
+              "identifier": "javascript/esm|data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;",
+              "name": "data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;",
+              "nameForCondition": "data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;",
+              "index": 0,
+              "preOrderIndex": 0,
+              "index2": 0,
+              "postOrderIndex": 0,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": false,
+              "issuer": null,
+              "issuerName": null,
+              "issuerPath": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": "data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;",
+              "issuerId": null,
+              "chunks": [
+                "HtmlWebpackPlugin_0-C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html"
+              ],
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "resolvedModuleIdentifier": null,
+                  "resolvedModule": null,
+                  "type": "entry",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;",
+                  "loc": "HtmlWebpackPlugin_0-C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                }
+              ],
+              "usedExports": null,
+              "providedExports": [],
+              "optimizationBailout": [],
+              "depth": 0
+            },
+            {
+              "type": "module",
+              "moduleType": "runtime",
+              "layer": null,
+              "size": 88,
+              "sizes": {
+                "runtime": 88
+              },
+              "built": false,
+              "codeGenerated": true,
+              "buildTimeExecuted": false,
+              "cached": false,
+              "identifier": "webpack/runtime/hasOwnProperty shorthand",
+              "name": "webpack/runtime/hasOwnProperty shorthand",
+              "nameForCondition": null,
+              "index": null,
+              "preOrderIndex": null,
+              "index2": null,
+              "postOrderIndex": null,
+              "optional": false,
+              "orphan": false,
+              "dependent": false,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": "",
+              "chunks": [
+                "HtmlWebpackPlugin_0-C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html"
+              ],
+              "assets": [],
+              "reasons": [],
+              "usedExports": null,
+              "providedExports": [],
+              "optimizationBailout": [],
+              "depth": null
+            },
+            {
+              "type": "module",
+              "moduleType": "runtime",
+              "layer": null,
+              "size": 274,
+              "sizes": {
+                "runtime": 274
+              },
+              "built": false,
+              "codeGenerated": true,
+              "buildTimeExecuted": false,
+              "cached": false,
+              "identifier": "webpack/runtime/make namespace object",
+              "name": "webpack/runtime/make namespace object",
+              "nameForCondition": null,
+              "index": null,
+              "preOrderIndex": null,
+              "index2": null,
+              "postOrderIndex": null,
+              "optional": false,
+              "orphan": false,
+              "dependent": false,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": "",
+              "chunks": [
+                "HtmlWebpackPlugin_0-C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html"
+              ],
+              "assets": [],
+              "reasons": [],
+              "usedExports": null,
+              "providedExports": [],
+              "optimizationBailout": [],
+              "depth": null
+            },
+            {
+              "type": "module",
+              "moduleType": "runtime",
+              "layer": null,
+              "size": 27,
+              "sizes": {
+                "runtime": 27
+              },
+              "built": false,
+              "codeGenerated": true,
+              "buildTimeExecuted": false,
+              "cached": false,
+              "identifier": "webpack/runtime/publicPath",
+              "name": "webpack/runtime/publicPath",
+              "nameForCondition": null,
+              "index": null,
+              "preOrderIndex": null,
+              "index2": null,
+              "postOrderIndex": null,
+              "optional": false,
+              "orphan": false,
+              "dependent": false,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": "",
+              "chunks": [
+                "HtmlWebpackPlugin_0-C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html"
+              ],
+              "assets": [],
+              "reasons": [],
+              "usedExports": null,
+              "providedExports": [],
+              "optimizationBailout": [],
+              "depth": null
+            },
+            {
+              "type": "module",
+              "moduleType": "runtime",
+              "layer": null,
+              "size": 539,
+              "sizes": {
+                "runtime": 539
+              },
+              "built": false,
+              "codeGenerated": true,
+              "buildTimeExecuted": false,
+              "cached": false,
+              "identifier": "webpack/runtime/require chunk loading",
+              "name": "webpack/runtime/require chunk loading",
+              "nameForCondition": null,
+              "index": null,
+              "preOrderIndex": null,
+              "index2": null,
+              "postOrderIndex": null,
+              "optional": false,
+              "orphan": false,
+              "dependent": false,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": "",
+              "chunks": [
+                "HtmlWebpackPlugin_0-C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html"
+              ],
+              "assets": [],
+              "reasons": [],
+              "usedExports": null,
+              "providedExports": [],
+              "optimizationBailout": [],
+              "depth": null
+            }
+          ],
+          "origins": [
+            {
+              "module": "",
+              "moduleIdentifier": "",
+              "moduleName": "",
+              "loc": "HtmlWebpackPlugin_0-C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html",
+              "request": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html"
+            },
+            {
+              "module": "",
+              "moduleIdentifier": "",
+              "moduleName": "",
+              "loc": "HtmlWebpackPlugin_0-C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html",
+              "request": "data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;"
+            }
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/esm",
+          "layer": null,
+          "size": 77,
+          "sizes": {
+            "javascript": 77
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "javascript/esm|data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;",
+          "name": "data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;",
+          "nameForCondition": "data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;",
+          "index": 0,
+          "preOrderIndex": 0,
+          "index2": 0,
+          "postOrderIndex": 0,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;",
+          "issuerId": null,
+          "chunks": [
+            "HtmlWebpackPlugin_0-C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html"
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;",
+              "loc": "HtmlWebpackPlugin_0-C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": 0
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 450,
+          "sizes": {
+            "javascript": 450
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html",
+          "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src2/index.html",
+          "nameForCondition": "C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html",
+          "index": 1,
+          "preOrderIndex": 1,
+          "index2": 1,
+          "postOrderIndex": 1,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "./node_modules/html-webpack-plugin/lib/loader.js!./src2/index.html",
+          "issuerId": null,
+          "chunks": [
+            "HtmlWebpackPlugin_0-C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html"
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html",
+              "module": "./node_modules/html-webpack-plugin/lib/loader.js!./src2/index.html",
+              "moduleName": "./node_modules/html-webpack-plugin/lib/loader.js!./src2/index.html",
+              "resolvedModuleIdentifier": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html",
+              "resolvedModule": "./node_modules/html-webpack-plugin/lib/loader.js!./src2/index.html",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "1:100-114",
+              "moduleId": "./node_modules/html-webpack-plugin/lib/loader.js!./src2/index.html",
+              "resolvedModuleId": "./node_modules/html-webpack-plugin/lib/loader.js!./src2/index.html"
+            },
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html",
+              "loc": "HtmlWebpackPlugin_0-C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": null,
+              "active": true,
+              "explanation": "used as library export",
+              "userRequest": null,
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "CommonJS bailout: module.exports is used directly at 1:100-114"
+          ],
+          "depth": 0
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 88,
+          "sizes": {
+            "runtime": 88
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/hasOwnProperty shorthand",
+          "name": "webpack/runtime/hasOwnProperty shorthand",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "HtmlWebpackPlugin_0-C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 274,
+          "sizes": {
+            "runtime": 274
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/make namespace object",
+          "name": "webpack/runtime/make namespace object",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "HtmlWebpackPlugin_0-C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 27,
+          "sizes": {
+            "runtime": 27
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/publicPath",
+          "name": "webpack/runtime/publicPath",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "HtmlWebpackPlugin_0-C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 539,
+          "sizes": {
+            "runtime": 539
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/require chunk loading",
+          "name": "webpack/runtime/require chunk loading",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            "HtmlWebpackPlugin_0-C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html"
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        }
+      ],
+      "entrypoints": {
+        "HtmlWebpackPlugin_0-C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html": {
+          "name": "HtmlWebpackPlugin_0-C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html",
+          "chunks": [
+            "HtmlWebpackPlugin_0-C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html"
+          ],
+          "assets": [],
+          "filteredAssets": 0,
+          "assetsSize": 0,
+          "auxiliaryAssets": [],
+          "filteredAuxiliaryAssets": 0,
+          "auxiliaryAssetsSize": 0,
+          "children": {},
+          "childAssets": {},
+          "isOverSizeLimit": false
+        }
+      },
+      "namedChunkGroups": {
+        "HtmlWebpackPlugin_0-C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html": {
+          "name": "HtmlWebpackPlugin_0-C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html",
+          "chunks": [
+            "HtmlWebpackPlugin_0-C:\\Users\\yuzho\\Desktop\\webpack_good\\node_modules\\html-webpack-plugin\\lib\\loader.js!C:\\Users\\yuzho\\Desktop\\webpack_good\\src2\\index.html"
+          ],
+          "assets": [],
+          "filteredAssets": 0,
+          "assetsSize": 0,
+          "auxiliaryAssets": [],
+          "filteredAuxiliaryAssets": 0,
+          "auxiliaryAssetsSize": 0,
+          "children": {},
+          "childAssets": {},
+          "isOverSizeLimit": false
+        }
+      },
+      "errors": [],
+      "errorsCount": 0,
+      "warnings": [],
+      "warningsCount": 0,
+      "children": []
+    }
+  ]
+}
