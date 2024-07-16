@@ -1,0 +1,25 @@
+{
+	"name": "webpack_good",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build": "webpack",
+		"start": "webpack serve",
+		"dev": "webpack --progress",
+		"analyzer": "webpack-bundle-analyzer --port 8888 ./public/stats.json"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"cross-env": "^7.0.3",
+		"html-webpack-plugin": "^5.6.0",
+		"node-notifier": "^10.0.1",
+		"speed-measure-webpack-plugin": "^1.5.0",
+		"webpack": "^5.93.0",
+		"webpack-bundle-analyzer": "^4.10.2",
+		"webpack-cli": "^5.1.4",
+		"webpack-dev-server": "^5.0.4"
+	}
+}
